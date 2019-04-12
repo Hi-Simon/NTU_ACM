@@ -57,3 +57,5 @@
 ### nuchenghao +20pt
 ### Ttmq36 +10pt
 ---
+![Board](https://github.com/Cathy98/NTU_ACM/blob/master/img/Codeforces%20Global%20Round%202.png)
+

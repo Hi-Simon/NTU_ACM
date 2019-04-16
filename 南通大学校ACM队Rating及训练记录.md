@@ -68,7 +68,7 @@
 
 ------
 
-![Codeforces Global Round 2](D:\mywarehouse\NTU_ACM\img\Codeforces Global Round 2.png)
+![Codeforces Global Round 2.png](https://github.com/Cathy98/NTU_ACM/blob/master/img/Codeforces%20Global%20Round%202.png?raw=true)
 
 | Rating | 班级      | 姓名    | CF handle     | CF有效场次 | CF rating | 刷题数 | 线下 | 线上 | 其他 | pt   |
 | ------ | --------- | ------- | ------------- | ---------- | --------- | ------ | ---- | ---- | ---- | ---- |
@@ -98,9 +98,9 @@
 
 ## yesheng，nuchenghao ,   Ttmq36 +10pt
 
+![The 19th Zhejiang University Programming Contest Sponsored by TuSimple (Mirror).png](https://github.com/Cathy98/NTU_ACM/blob/master/img/The%2019th%20Zhejiang%20University%20Programming%20Contest%20Sponsored%20by%20TuSimple%20(Mirror).png?raw=true)
 
 
-![The 19th Zhejiang University Programming Contest Sponsored by TuSimple (Mirror)](D:\mywarehouse\NTU_ACM\img\The 19th Zhejiang University Programming Contest Sponsored by TuSimple (Mirror).png)
 
 | Rating | 班级      | 姓名    | CF handle     | CF有效场次 | CF rating | 刷题数 | 线下 | 线上 | 其他 | pt   |
 | ------ | --------- | ------- | ------------- | ---------- | --------- | ------ | ---- | ---- | ---- | ---- |
@@ -121,24 +121,3 @@
 | 16     | 软工171   | 雷涛    | Lyshyi        | 0          | 1200      | 56     | 0    | 1    |      | 1319 |
 | 17     | 计184     | 安炳同  | 262412        | 0          | 1200      | 55     | 0    | 0    |      | 1310 |
 | 18     | 计嵌172   | 葛骅    | K.GH          | 2          | 1200      | 20     | 0    | 0    |      | 1250 |
-
-|      |      |      |      |      |      |      |      |      |      |      |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |

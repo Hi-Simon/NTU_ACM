@@ -24,16 +24,11 @@
 | 软工171   | 雷涛    | Lyshyi        | 0          | 1200                         | 56     | 1312 |
 | 计184     | 安炳同  | 262412        | 0          | 1200                         | 55     | 1310 |
 | 计嵌172   | 葛骅    | K.GH          | 2          | 1200                         | 20     | 1250 |
-
 ## 2019.4.6更新，Codeforces Round #538 (Div. 2)训练情况
-
 ### yesheng +30pt
-
 ### LH01 +20pt
-
 ### \_Simon\_ +10pt
-
-------
+---
 
 ![Board](https://github.com/Simon-Lon/NTU_ACM/blob/master/img/Codeforces%20Round%20%23538%20(Div.%202)-board.png?raw=true)
 
@@ -57,17 +52,11 @@
 | 16     | 软工171   | 雷涛    | Lyshyi        | 0          | 1200      | 56     | 0    | 0    |      | 1312 |
 | 17     | 计184     | 安炳同  | 262412        | 0          | 1200      | 55     | 0    | 0    |      | 1310 |
 | 18     | 计嵌172   | 葛骅    | K.GH          | 2          | 1200      | 20     | 0    | 0    |      | 1250 |
-
 ## 2019.4.13更新，Codeforces Global Round 2 训练情况
-
 ### \_Simon\_ +30pt
-
 ### nuchenghao +20pt
-
 ### Ttmq36 +10pt
-
-------
-
+---
 ![Codeforces Global Round 2.png](https://github.com/Cathy98/NTU_ACM/blob/master/img/Codeforces%20Global%20Round%202.png?raw=true)
 
 | Rating | 班级      | 姓名    | CF handle     | CF有效场次 | CF rating | 刷题数 | 线下 | 线上 | 其他 | pt   |
@@ -92,11 +81,11 @@
 
 ## 2019.4.15更新，The 19th Zhejiang University Programming Contest Sponsored by TuSimple (Mirror)
 
-## LH01，  thirtiseven +30pt
+##   LH01+15pt    thirtiseven +15pt
 
-## \_Simon\_ ，  i_lower +20pt
+## \_Simon\_+10pt    i_lower +10pt
 
-## yesheng，nuchenghao ,   Ttmq36 +10pt
+##   yesheng+4pt  nuchenghao+4pt  Ttmq36 +4pt
 
 ![The 19th Zhejiang University Programming Contest Sponsored by TuSimple (Mirror).png](https://github.com/Cathy98/NTU_ACM/blob/master/img/The%2019th%20Zhejiang%20University%20Programming%20Contest%20Sponsored%20by%20TuSimple%20(Mirror).png?raw=true)
 
@@ -121,3 +110,85 @@
 | 16     | 软工171   | 雷涛    | Lyshyi        | 0          | 1200      | 56     | 0    | 1    |      | 1319 |
 | 17     | 计184     | 安炳同  | 262412        | 0          | 1200      | 55     | 0    | 0    |      | 1310 |
 | 18     | 计嵌172   | 葛骅    | K.GH          | 2          | 1200      | 20     | 0    | 0    |      | 1250 |
+
+## 2019.4.20更新，南昌网络赛
+
+## LH01+10pt    wanggann+10pt    thirtiseven+10pt
+
+##  \_Simon\_+5pt    STRworld+5pt    yesheng+5pt      Cathy98+5pt
+
+## Ttmq36+3pt      i_lower+3pt      Ittzz+3pt      Lyshyi+3pt
+
+![南昌网络赛.jpg](https://github.com/Cathy98/NTU_ACM/blob/master/img/%E5%8D%97%E6%98%8C%E7%BD%91%E7%BB%9C%E8%B5%9B.jpg?raw=true)
+
+| Rating | 班级      | 姓名    | CF handle     | CF有效场次 | CF rating | 刷题数 | 线下 | 线上 | 其他 | pt   |
+| ------ | --------- | ------- | ------------- | ---------- | --------- | ------ | ---- | ---- | ---- | ---- |
+| 1      | 软嵌162   | *王淦   | wanggann      | 11         | 1653      | 987    | 1    | 0    | 10   | 3707 |
+| 2      | 软工161   | *李昊洋 | thirtiseven   | 48         | 1621      | 691    | 2    | 0    | 25   | 3298 |
+| 3      | 物联网171 | 赵静柯  | \_Simon\_     | 17         | 1529      | 704    | 4    | 0    | 55   | 3137 |
+| 4      | 计172     | 沈天任  | STRworld      | 4          | 1200      | 187    | 1    | 0    | 5    | 1614 |
+| 6      | 物联网181 | 叶盛    | yesheng       | 0          | 1200      | 156    | 4    | 0    | 39   | 1611 |
+| 10     | 计184     | 缪祺    | Ttmq36        | 2          | 1200      | 143    | 3    | 1    | 17   | 1565 |
+| 5      | 计嵌171   | 李喜凯  | perfectisshit | 4          | 1200      | 146    | 0    | 0    |      | 1512 |
+| 7      | 网工172   | 陈迪荣  | Ittzz         | 1          | 1200      | 136    | 2    | 0    | 3    | 1510 |
+| 11     | 软嵌182   | 季炎    | i_lower       | 0          | 1200      | 118    | 3    | 1    | 13   | 1501 |
+| 12     | 软嵌181   | 林浩    | LH01          | 2          | 1200      | 88     | 4    | 0    | 45   | 1491 |
+| 9      | 软嵌181   | 奴成昊  | nuchenghao    | 0          | 1200      | 113    | 2    | 1    | 24   | 1487 |
+| 14     | 网工172   | 郁越    | Cathy98       | 1          | 1200      | 75     | 3    | 1    | 5    | 1412 |
+| 15     | 计184     | 吴媛媛  | \_Yuanshuai\_ | 0          | 1200      | 78     | 1    | 0    |      | 1371 |
+| 13     | 物联网171 | 陈诗琪  | ChenShiQi     | 3          | 1200      | 70     | 0    | 0    |      | 1355 |
+| 16     | 软工171   | 雷涛    | Lyshyi        | 0          | 1200      | 57     | 1    | 1    | 3    | 1339 |
+| 17     | 计184     | 安炳同  | 262412        | 0          | 1200      | 55     | 0    | 0    |      | 1310 |
+| 18     | 计嵌172   | 葛骅    | K.GH          | 2          | 1200      | 20     | 0    | 0    |      | 1250 |
+
+## 2019.4.27更新，The 16th Zhejiang Provincial Collegiate Programming Contest Sponsored by TuSimple (Mirror)
+
+## yesheng+15pt      i_lower+15pt
+
+## Cathy98+10pt      \_Yuanshuai\_+10pt
+
+## Ttmq36+4pt    nuchenghao+4pt      LH01+4pt
+
+![The 16th Zhejiang Provincial Collegiate Programming Contest Sponsored by TuSimple (Mirror).png](https://github.com/Cathy98/NTU_ACM/blob/master/img/The%2016th%20Zhejiang%20Provincial%20Collegiate%20Programming%20Contest%20Sponsored%20by%20TuSimple%20(Mirror).png?raw=true)
+
+| 姓名    | CF handle     | CF有效场次 | CF rating | 刷题数 | 线下 | 线上 | 其他 | pt   |
+| ------- | ------------- | ---------- | --------- | ------ | ---- | ---- | ---- | ---- |
+| *王淦   | wanggann      | 11         | 1653      | 987    | 1    | 0    | 10   | 3707 |
+| *李昊洋 | thirtiseven   | 48         | 1621      | 691    | 2    | 0    | 25   | 3298 |
+| 赵静柯  | \_Simon\_     | 17         | 1529      | 704    | 4    | 0    | 55   | 3137 |
+| 叶盛    | yesheng       | 0          | 1200      | 156    | 5    | 0    | 54   | 1641 |
+| 沈天任  | STRworld      | 4          | 1200      | 187    | 1    | 0    | 5    | 1614 |
+| 缪祺    | Ttmq36        | 2          | 1200      | 143    | 4    | 1    | 21   | 1584 |
+| 季炎    | i_lower       | 0          | 1200      | 118    | 4    | 1    | 28   | 1531 |
+| 李喜凯  | perfectisshit | 4          | 1200      | 146    | 0    | 0    |      | 1512 |
+| 陈迪荣  | Ittzz         | 1          | 1200      | 136    | 2    | 0    | 3    | 1510 |
+| 林浩    | LH01          | 2          | 1200      | 88     | 5    | 0    | 49   | 1510 |
+| 奴成昊  | nuchenghao    | 0          | 1200      | 113    | 3    | 1    | 28   | 1506 |
+| 郁越    | Cathy98       | 1          | 1200      | 75     | 4    | 1    | 15   | 1437 |
+| 吴媛媛  | \_Yuanshuai\_ | 0          | 1200      | 78     | 2    | 0    | 10   | 1396 |
+| 陈诗琪  | ChenShiQi     | 3          | 1200      | 70     | 0    | 0    |      | 1355 |
+| 雷涛    | Lyshyi        | 0          | 1200      | 57     | 1    | 1    | 3    | 1339 |
+| 安炳同  | 262412        | 0          | 1200      | 55     | 0    | 0    |      | 1310 |
+| 葛骅    | K.GH          | 2          | 1200      | 20     | 0    | 0    |      | 1250 |
+
+## 2019.5.5更新刷题数及CF有效场次
+
+| 姓名    | CF handle     | CF有效场次 | CF rating | 刷题数 | 线下 | 线上 | 其他 | pt   |
+| ------- | ------------- | ---------- | --------- | ------ | ---- | ---- | ---- | ---- |
+| *王淦   | wanggann      | 11         | 1653      | 987    | 1    | 0    | 10   | 3707 |
+| 赵静柯  | \_Simon\_     | 22         | 1529      | 835    | 4    | 0    | 55   | 3424 |
+| *李昊洋 | thirtiseven   | 48         | 1621      | 691    | 2    | 0    | 25   | 3298 |
+| 叶盛    | yesheng       | 5          | 1200      | 193    | 5    | 0    | 54   | 1740 |
+| 沈天任  | STRworld      | 3          | 1200      | 233    | 1    | 0    | 5    | 1701 |
+| 缪祺    | Ttmq36        | 5          | 1200      | 164    | 4    | 1    | 21   | 1641 |
+| 林浩    | LH01          | 1          | 1200      | 140    | 5    | 0    | 49   | 1609 |
+| 季炎    | i_lower       | 4          | 1200      | 146    | 4    | 1    | 28   | 1607 |
+| 陈迪荣  | Ittzz         | 0          | 1200      | 134    | 2    | 0    | 3    | 1501 |
+| 李喜凯  | perfectisshit | 1          | 1200      | 146    | 0    | 0    |      | 1497 |
+| 奴成昊  | nuchenghao    | 5          | 1200      | 96     | 3    | 1    | 28   | 1497 |
+| 郁越    | Cathy98       | 1          | 1200      | 87     | 4    | 1    | 15   | 1461 |
+| 吴媛媛  | \_Yuanshuai\_ | 1          | 1200      | 81     | 2    | 0    | 10   | 1407 |
+| 陈诗琪  | ChenShiQi     | 3          | 1200      | 70     | 0    | 0    |      | 1355 |
+| 雷涛    | Lyshyi        | 0          | 1200      | 57     | 1    | 1    | 3    | 1339 |
+| 安炳同  | 262412        | 0          | 1200      | 55     | 0    | 0    |      | 1310 |
+| 葛骅    | K.GH          | 2          | 1200      | 20     | 0    | 0    |      | 1250 |

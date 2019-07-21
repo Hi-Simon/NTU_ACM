@@ -238,7 +238,17 @@
 | 9      | 计184     | 吴媛媛  | \_Yuanshuai\_ | 2          | 1200      | 110    | 2    | 0    | 10   | 1470 |
 | 10     | 计嵌171   | 姜文轩  | jwx543        | 0          | 1200      | 40     | 0    | 0    | 0    | 1280 |
 
-## 2019.7.09更新
+## 2019.7.09更新，Educational Codeforces Round 66 (Rated for Div. 2)
 
-## 2019.7.11更新2017 United Kingdom and Ireland Programming Contest (UKIEPC 2017)
+
+
+## 2019.7.11更新，2017 United Kingdom and Ireland Programming Contest (UKIEPC 2017)
+
+
+
+## 2019.7.14更新，Codeforces Round #566 (Div. 2)
+
+
+
+
 
